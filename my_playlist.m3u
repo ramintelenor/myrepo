@@ -40567,5 +40567,7 @@ http://arabic80479.wd.business-cloud-8.ru/movie/ec135af4afc2/c5d7631907/1000460.
 http://arabic80479.wd.business-cloud-8.ru/movie/ec135af4afc2/c5d7631907/919074.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Fa6o5nfUPEatQ9b3OwEvdEdR7T.jpg" group-title="Movies | IR - PERSIAN کلاسیک دوبله",IR - Le Samouraï (1967) سامورایی
 http://arabic80479.wd.business-cloud-8.ru/movie/ec135af4afc2/c5d7631907/732801.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xcXdvpHcpHsTQoo17adpYB8RBI9.jpg" group-title="SERIES TEST",A Different World S01E01
+#EXTINF:-1 tvg-type="tvshows" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xcXdvpHcpHsTQoo17adpYB8RBI9.jpg" group-title="SERIES TEST",A Different World S01E01
 http://arabic80479.wd.business-cloud-8.ru/series/ec135af4afc2/c5d7631907/2179161.mkv
+#EXTINF:-1 tvg-type="tvshows" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xcXdvpHcpHsTQoo17adpYB8RBI9.jpg" group-title="SERIES TEST",A Different World S01E02
+http://arabic80479.wd.business-cloud-8.ru/series/ec135af4afc2/c5d7631907/2179162.mkv
